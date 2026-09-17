@@ -47,8 +47,6 @@ thrargok@infosec-terminal:~$ cat /home/cyber/hobbies.txt
 [+] OFFLINE_MODE: Descompressão do sistema com guitarra, livros e mangás.
 ```
 
----
-
 ### 📡 Connection & Network
 
 ```bash
