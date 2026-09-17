@@ -44,7 +44,7 @@ thrargok@infosec-terminal:~$ cat /home/cyber/hobbies.txt
 [✓] STAR TREK ONLINE: Comandando nave científica testando builds de dano exótico.
 [!] FIGHTING GAMES: [ERROR] Passando aquela "vergonha" básica tentando fechar combos.
 [+] STREAMING_PROTOCOL: Assistindo pro-wrestling, tokusatsus, animes e séries.
-[+] OFFLINE_MODE: Descompressão do sistema com guitarra, livros e mangás.
+[+] OFFLINE_MODE: Descompressão do sistema com guitarra, livros, mangás, TCGs e boardgames.
 ```
 
 ### 📡 Connection & Network
