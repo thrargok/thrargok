@@ -1,46 +1,64 @@
-# Olá, eu sou o Guilherme! :vulcan_salute: (`glhrm86`)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Initializing+system...;Welcome+to+Thrargok's+Terminal;Estudante+de+Cybersecurity;Gamer+nas+horas+vagas" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Pesquisador%20e%20Estudante-10b981?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Curso-Pós--Graduação%20em%20Segurança%20da%20Informação-blue?style=for-the-badge" alt="Curso">
-  <img src="https://img.shields.io/badge/Instituição-Senac-yellow?style=for-the-badge" alt="Instituição">
-</p>
+<br>
 
-Sou um entusiasta de tecnologia, utilizando o GitHub como meu caderno digital para documentar minha jornada de aprendizado em **Segurança da Informação e Cibersegurança**. Nas horas vagas, você pode me encontrar explorando o espaço a bordo de uma nave científica em Star Trek Online.
+```bash
+thrargok@infosec-terminal:~$ whoami
+```
+
+```yaml
+Nome: Guilherme
+Alias: Thrargok
+Status: Estudante de Segurança da Informação
+Local: /home/cyber/estudos
+
+Educação_e_Treinamento:
+  - Pós-graduação em Segurança da Informação @ SENAC (Booting...)
+  - Fundamentos de Redes @ Cisco Networking Academy (Active)
+
+Idiomas_em_Processamento:
+  - Inglês (Leitura técnica e documentações)
+  - Japonês (Em estudo contínuo)
+
+Conhecimentos_Base:
+  - Linguagem: Python (Processando 'Use a Cabeça! Python')
+  - Bancos_de_Dados: MySQL
+  - Web_Dev: HTML5, CSS3, JavaScript
+
+Next_Targets: 
+  - [Linux_Administration]
+  - [CTFs_para_iniciantes]
+```
+
+```bash
+thrargok@infosec-terminal:~$ cat /home/cyber/hobbies.txt
+```
+
+```text
+[+] Inicializando rotina de horas vagas...
+[✓] XADREZ: Resolvendo puzzles e treinando antecipação estratégica.
+[✓] WARFRAME: Farmando recursos infinitos para forjar equipamentos.
+[✓] MONSTER HUNTER: Caçando monstros colossais na base da porrada.
+[✓] STAR TREK ONLINE: Comandando nave científica testando builds de dano exótico.
+[!] FIGHTING GAMES: [ERROR] Passando aquela "vergonha" básica tentando fechar combos.
+[+] STREAMING_PROTOCOL: Assistindo pro-wrestling, tokusatsus, animes e séries.
+[+] OFFLINE_MODE: Descompressão do sistema com guitarra, livros e mangás.
+```
 
 ---
 
-### 🚀 Sobre Mim
-* 🎓 **Nova Jornada:** Iniciando a **Pós-graduação em Segurança da Informação** no SENAC.
-* 🌐 **Foco Atual:** Estudando **Fundamentos de Redes** pela **Cisco Networking Academy**.
-* 🧠 **Lógica e Programação:** Consolidando minha base em **Python** (atualmente com o livro *Use a Cabeça! Python*) e construindo fundamentos em **Bancos de Dados (MySQL)**.
-* 💻 **Web:** Conhecimentos básicos e práticos de **HTML5**, **CSS3** e **JavaScript**.
+### 📡 Connection & Network
 
----
+```bash
+thrargok@infosec-terminal:~$ netstat -an | grep ESTABLISHED
+tcp        0      0 127.0.0.1:443         SENAC_ACADEMY:443      ESTABLISHED
+tcp        0      0 192.168.0.15:22       CISCO_LABS:22          ESTABLISHED
+tcp        0      0 10.0.0.5:8080         WARFRAME_SERVER:8080   ESTABLISHED
+```
 
-### 🛠️ Tecnologias e Ferramentas
-
-Aqui estão as linguagens e tecnologias que formam minha base atual de estudos:
-
-#### ⚡ Estudando / Foco Atual (Redes & Python):
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-#### 📚 Conhecimentos Básicos (Web & Dados):
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-#### 🔧 Ferramentas e Próximos Passos:
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
-
----
+```bash
+thrargok@infosec-terminal:~$ logout
+Connection to infosec-terminal closed.
+```
