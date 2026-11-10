@@ -11,11 +11,11 @@ thrargok@infosec-terminal:~$ whoami
 ```yaml
 Nome: Guilherme
 Alias: Thrargok
-Status: Estudante de Segurança da Informação
+Status: Pós-graduando em Cibersegurança e Governança de Dados
 Local: /home/cyber/estudos
 
 Educação_e_Treinamento:
-  - Pós-graduação em Segurança da Informação @ SENAC (Booting...)
+  - Pós-graduação em Cibersegurança e Governança de Dados @ PUC Minas (Active)
   - Fundamentos de Redes @ Cisco Networking Academy (Active)
 
 Idiomas_em_Processamento:
@@ -41,7 +41,6 @@ thrargok@infosec-terminal:~$ cat /home/cyber/hobbies.txt
 [✓] XADREZ: Resolvendo puzzles e treinando antecipação estratégica.
 [✓] WARFRAME: Farmando recursos infinitos para forjar equipamentos.
 [✓] MONSTER HUNTER: Caçando monstros colossais na base da porrada.
-[✓] STAR TREK ONLINE: Comandando nave científica testando builds de dano exótico.
 [!] FIGHTING GAMES: [ERROR] Passando aquela "vergonha" básica tentando fechar combos.
 [+] STREAMING_PROTOCOL: Assistindo pro-wrestling, tokusatsus, animes e séries.
 [+] OFFLINE_MODE: Descompressão do sistema com guitarra, livros, mangás, TCGs e boardgames.
