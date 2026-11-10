@@ -50,9 +50,9 @@ thrargok@infosec-terminal:~$ cat /home/cyber/hobbies.txt
 
 ```bash
 thrargok@infosec-terminal:~$ netstat -an | grep ESTABLISHED
-tcp        0      0 127.0.0.1:443         SENAC_ACADEMY:443      ESTABLISHED
-tcp        0      0 192.168.0.15:22       CISCO_LABS:22          ESTABLISHED
-tcp        0      0 10.0.0.5:8080         WARFRAME_SERVER:8080   ESTABLISHED
+tcp        0      0 127.0.0.1:443          PUC_MINAS_CORE:443     ESTABLISHED
+tcp        0      0 192.168.0.15:22        CISCO_LABS:22          ESTABLISHED
+tcp        0      0 10.0.0.5:8080          WARFRAME_SERVER:8080   ESTABLISHED
 ```
 
 ```bash
