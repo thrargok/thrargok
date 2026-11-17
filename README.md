@@ -29,7 +29,7 @@ Conhecimentos_Base:
 - Web_Dev: HTML5, CSS3, JavaScript
 
 Next_Targets: 
-- [Python_POO_&_Automação]
+- [Python_POO]
 - [Arquitetura_de_Redes]
 - [Linux_Administration]
 - [CTFs_para_iniciantes]
