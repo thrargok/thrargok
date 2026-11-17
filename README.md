@@ -16,6 +16,7 @@ Local: /home/cyber/estudos
 
 Educação_e_Treinamento:
 - Pós-graduação em Defesa Cibernética, SOC e Resposta a Incidentes (Active)
+- 13ª Maratona CiberEducação Cisco Brasil (Active)
 - Fundamentos de Redes @ Cisco Networking Academy (Active)
 
 Idiomas_em_Processamento:
@@ -23,11 +24,13 @@ Idiomas_em_Processamento:
 - Japonês (Em estudo contínuo)
 
 Conhecimentos_Base:
-- Linguagem: Python (Processando 'Use a Cabeça! Python')
+- Linguagem: Python (Lógica de programação, funções e estruturas de dados básicas)
 - Bancos_de_Dados: MySQL
 - Web_Dev: HTML5, CSS3, JavaScript
 
 Next_Targets: 
+- [Python_POO_&_Automação]
+- [Arquitetura_de_Redes]
 - [Linux_Administration]
 - [CTFs_para_iniciantes]
 ```
@@ -51,7 +54,7 @@ thrargok@infosec-terminal:~$ cat /home/cyber/hobbies.txt
 ```bash
 thrargok@infosec-terminal:~$ netstat -an | grep ESTABLISHED
 tcp        0      0 127.0.0.1:443          SOC_DEFENSE_HUB:443    ESTABLISHED
-tcp        0      0 192.168.0.15:22        CISCO_LABS:22          ESTABLISHED
+tcp        0      0 192.168.0.15:22        CISCO_MARATONA:22      ESTABLISHED
 tcp        0      0 10.0.0.5:8080          WARFRAME_SERVER:8080   ESTABLISHED
 ```
 
